@@ -1,0 +1,265 @@
+newmtl Atril_lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BaseAtril.png
+Ni 1.00
+newmtl Atril_lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera.png
+Ni 1.00
+newmtl Atril_lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd FrenteAtril.png
+Ni 1.00
+newmtl Atril_lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd AtrilFrente.png
+Ni 1.00
+newmtl Cama_lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Bed.png
+Ni 1.00
+newmtl Libros_lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Libros.png
+Ni 1.00
+newmtl Redstone_lamp
+illum 4
+Kd 0.00 0.00 0.00
+Ka 2.00 1.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd redstone-lamp.jpg
+Ni 1.00
+newmtl Valla_lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera.png
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BloquePiedra.png
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera.png
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Lana.png
+Ni 1.00
+newmtl lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Mesa.png
+Ni 1.00
+newmtl pasted__Redstone_lamp
+illum 4
+Kd 0.00 0.00 0.00
+Ka 2.00 1.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd redstone-lamp.jpg
+Ni 1.00
+newmtl pasted__pasted__Redstone_lamp
+illum 4
+Kd 0.00 0.00 0.00
+Ka 2.00 1.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd redstone-lamp.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__Redstone_lamp
+illum 4
+Kd 0.00 0.00 0.00
+Ka 2.00 1.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd redstone-lamp.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__Redstone_lamp4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 2.00 1.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd redstone-lamp.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__Redstone_lamp4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 2.00 1.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd redstone-lamp.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__Redstone_lamp4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 2.00 1.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd redstone-lamp.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Redstone_lamp4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 2.00 1.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd redstone-lamp.jpg
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__vidrio_lambert2SG187
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__vidrio_lambert2SG183
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__vidrio_lambert2SG187
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__vidrio_lambert2SG191
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__vidrio_lambert2SG171
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__vidrio_lambert2SG175
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__vidrio_lambert2SG179
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__vidrio_lambert2SG183
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__vidrio_lambert2SG165
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__vidrio_lambert2SG169
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__vidrio_lambert2SG158
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__vidrio_lambert2SG157
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__vidrio_lambert2SG157
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__vidrio_lambert2SG157
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__pasted__vidrio_lambert2SG157
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__pasted__vidrio_lambert2SG157
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__pasted__vidrio_lambert2SG157
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
+newmtl pasted__pasted__pasted__vidrio_lambert2SG100
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VidrioMinecraft2.png
+Ni 1.00
